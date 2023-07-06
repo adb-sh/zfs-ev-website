@@ -1,7 +1,5 @@
 backend:
-  name: github
-  repo: adb-sh/zfs-ev-website
-  branch: main
+  name: git-gateway
 
 media_folder: "/src/media/images"
 public_folder: "/media/images/"
@@ -41,32 +39,3 @@ collections:
             widget: boolean
             required: false
             default: false
-  - label: Blog
-    name: posts
-    description: List of blog posts
-    folder: /src/blog/
-    preview_path: blog/{{slug}}/
-    extension: md
-    create: true
-    fields:
-      - label: Layout
-        name: layout
-        widget: hidden
-        default: Default.tsx
-      - label: Title
-        name: title
-        widget: string
-      - label: Date
-        name: date
-        widget: date
-      - label: Show in blog list
-        name: blog
-        widget: boolean
-        required: true
-        default: true
-      - label: Excerpt
-        name: excerpt
-        widget: text
-      - label: Content
-        name: body
-        widget: markdown
