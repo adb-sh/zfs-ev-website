@@ -1,5 +1,7 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: adb-sh/zfs-ev-website
+  branch: main
 
 media_folder: "/src/media/images"
 public_folder: "/media/images/"
