@@ -12,6 +12,6 @@ menu:
 Musterstrasse 16\
 12345 Flensburg
 
-**Telefon:** \
-**E-Mail:** \
+**Telefon:**\
+**E-Mail:**\
 **Internet:**
