@@ -29,7 +29,7 @@ site
         colors: {
           ...colors,
           primary: colors.red[500],
-          ["primary-dark"]: colors.red[400],
+          ["primary-dark"]: colors.red[500],
           secondary: colors.gray[800],
           ["secondary-dark"]: colors.gray[700],
         },

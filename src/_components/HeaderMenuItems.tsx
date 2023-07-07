@@ -32,7 +32,7 @@ export default ({ search, ...props }) => (
         return (
           <li>
             <a href={page.data.url}>
-              <div class="btn btn-outline-dark btn-shadow m-2">
+              <div class="btn m-2">
                 {page.data.title}
               </div>
             </a>

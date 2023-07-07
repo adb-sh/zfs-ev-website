@@ -81,19 +81,19 @@ header {
 }
 
 .btn {
-  @apply text-white px-4 py-1 w-fit;
+  @apply px-4 py-1 w-fit;
   text-decoration: none !important;
   display: block;
   cursor: pointer;
 }
 
 .btn-primary {
-  @apply bg-primary dark:bg-primary-dark;
+  @apply text-white bg-primary dark:bg-primary-dark;
   color: #fff !important;
 }
 
 .btn-secondary {
-  @apply bg-secondary dark:bg-secondary-dark;
+  @apply text-white bg-secondary dark:bg-secondary-dark;
   color: #fff !important;
 }
 
