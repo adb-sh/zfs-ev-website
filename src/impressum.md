@@ -9,7 +9,7 @@ menu:
 
 **Zeltlager Flensburger Schulen e.V.**\
 **Kasimir Kehrer**\
-Herrman-Lons-Weg 36\
+Herrman-Löns-Weg 36\
 24939 Flensburg
 
 **Telefon:** +49 461 5052720\
