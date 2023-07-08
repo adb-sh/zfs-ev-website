@@ -8,7 +8,7 @@ menu:
 # Impressum
 
 **Zeltlager Flensburger Schulen e.V.**\
-**Kasimir Kehrer**\
+**Kasimir Kehrer - 1. Vorsitzender**\
 Herrman-Löns-Weg 36\
 24939 Flensburg
 
