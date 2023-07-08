@@ -5,7 +5,6 @@ menu:
   footer: true
   header: false
 ---
-
 # Impressum
 
 **Zeltlager Flensburger Schulen e.V.**\
@@ -15,7 +14,7 @@ Herrman-Lons-Weg 36\
 
 **Telefon:** +49 461 5052720\
 **Mobil:** +49 162 7279378\
-**E-Mail:** [kasimir.kehrer@zfs-ev.de](mailto:kasimir.kehrer@zfs-ev.de)\
+**E-Mail:** [Impressum@zfs-ev.de](mailto:kasimir.kehrer@zfs-ev.de)\
 **Internet:** [zfs-ev.de](https://zfs-ev.de)
 
 ## Administration
