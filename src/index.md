@@ -3,6 +3,7 @@ layout: Default.tsx
 title: ZFS e.V.
 menu:
   header: true
+  footer: false
 ---
 # Zeltlager Flensburger Schulen e.V.
 
