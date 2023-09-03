@@ -13,13 +13,11 @@ Im Endspurt des Schuljahres nochmal richtig aufdrehen?
 
 Mit uns geht das!
 
-
-
 Ältere Schülerinnen und Schüler, die Jüngere betreuen,
 
 Schwimmen, Stockbrot  oder gemeinsames Singen,
 
-das Erlebnis steht im Vorfergrund, getreu dem Motto:
+das Erlebnis steht im Vordergrund, getreu dem Motto:
 
 “von Schülerinnen und Schülern für
 
