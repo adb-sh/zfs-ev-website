@@ -56,41 +56,41 @@ Die Verarbeitung kann in schriftlicher Form, händisch, elektronisch oder automa
 
 **§ 5 Zwecke der Verarbeitung**
 
-<!--\\[if !supportLists]-->
+<!--\\\[if !supportLists]-->
 
-(1)    <!--\\[endif]-->\*Nicht widerspruchsfähige Zwecke\*, diese sind für die Erbringung unseres Angebots notwendig und benötigen daher keiner expliziten Zustimmung:
+(1)    <!--\\\[endif]-->\*Nicht widerspruchsfähige Zwecke\*, diese sind für die Erbringung unseres Angebots notwendig und benötigen daher keiner expliziten Zustimmung:
 
-<!--\\[if !supportLists]-->
+<!--\\\[if !supportLists]-->
 
-o   <!--\\[endif]-->Statistik und Archiv: Wir erfassen, speichern und verarbeiten ihre Daten, um unsere Mitglieder, die Teilnehmenden an Angeboten und die Nutzer unseres Onlineangebots verwalten zu können
+o   <!--\\\[endif]-->Statistik und Archiv: Wir erfassen, speichern und verarbeiten ihre Daten, um unsere Mitglieder, die Teilnehmenden an Angeboten und die Nutzer unseres Onlineangebots verwalten zu können
 
-<!--\\[if !supportLists]-->
+<!--\\\[if !supportLists]-->
 
-o   <!--\\[endif]-->Kontakt: Wir erfassen, speichern und verarbeiten ihre Daten, um mit ihnen in Kontakt treten zu können, in Ausnahmefällen kann eine Weitergabe an Dritte notwendig sein
+o   <!--\\\[endif]-->Kontakt: Wir erfassen, speichern und verarbeiten ihre Daten, um mit ihnen in Kontakt treten zu können, in Ausnahmefällen kann eine Weitergabe an Dritte notwendig sein
 
-<!--\\[if !supportLists]-->
+<!--\\\[if !supportLists]-->
 
-o   <!--\\[endif]-->Sicherheitsmaßnahmen: Wir erfassen, speichern und verarbeiten ihre Daten, um die Integrität unserer Angebote fortlaufend gewährleisten zu können
+o   <!--\\\[endif]-->Sicherheitsmaßnahmen: Wir erfassen, speichern und verarbeiten ihre Daten, um die Integrität unserer Angebote fortlaufend gewährleisten zu können
 
-<!--\\[if !supportLists]-->
+<!--\\\[if !supportLists]-->
 
-o   <!--\\[endif]-->Rechtliche Verpflichtung: Wir erfassen, speichern und verarbeiten ihre Daten, wenn wir dazu durch Gesetze verpflichtet sind, z.T. werden ihre Daten dazu an Dritte weitergegeben. (siehe: Art. 6 Abs. 1 lit c DSGVO)
+o   <!--\\\[endif]-->Rechtliche Verpflichtung: Wir erfassen, speichern und verarbeiten ihre Daten, wenn wir dazu durch Gesetze verpflichtet sind, z.T. werden ihre Daten dazu an Dritte weitergegeben. (siehe: Art. 6 Abs. 1 lit c DSGVO)
 
-<!--\\[if !supportLists]-->
+<!--\\\[if !supportLists]-->
 
-o   <!--\\[endif]-->Berechtigtes Interesse: Wir erfassen, speichern und verarbeiten ihre Daten, wenn ein berechtigtes Interesse unsererseits daran vorliegt, bspw. um Förderung zu erhalten und unsere Angebote einer möglichst großen Gruppe zugänglich zu machen, z.T. werden ihre Daten dazu an Dritte weitergegeben. (siehe: Art. 6 Abs. 1 lit f DSGVO)
+o   <!--\\\[endif]-->Berechtigtes Interesse: Wir erfassen, speichern und verarbeiten ihre Daten, wenn ein berechtigtes Interesse unsererseits daran vorliegt, bspw. um Förderung zu erhalten und unsere Angebote einer möglichst großen Gruppe zugänglich zu machen, z.T. werden ihre Daten dazu an Dritte weitergegeben. (siehe: Art. 6 Abs. 1 lit f DSGVO)
 
-<!--\\[if !supportLists]-->
+<!--\\\[if !supportLists]-->
 
-o   <!--\\[endif]-->Kommunikation: Wir erfassen, speichern und verarbeiten ihre Daten, um auf Kommunikationsanfragen ihrerseits, insbesondere auch auf elektronischem Wege, eingehen zu können, u.U. kann das eine Weitergabe der Daten an Dritte erforderlich machen.
+o   <!--\\\[endif]-->Kommunikation: Wir erfassen, speichern und verarbeiten ihre Daten, um auf Kommunikationsanfragen ihrerseits, insbesondere auch auf elektronischem Wege, eingehen zu können, u.U. kann das eine Weitergabe der Daten an Dritte erforderlich machen.
 
-<!--\\[if !supportLists]-->
+<!--\\\[if !supportLists]-->
 
-(2)    <!--\\[endif]-->\*Widerspruchsfähige Zwecke\*, diese sind für die Erbringung unseres Angebots nicht zwangsweise notwendig, wir benötigen daher ihre explizite Zustimmung:
+(2)    <!--\\\[endif]-->\*Widerspruchsfähige Zwecke\*, diese sind für die Erbringung unseres Angebots nicht zwangsweise notwendig, wir benötigen daher ihre explizite Zustimmung:
 
-<!--\\[if !supportLists]-->o   <!--\\[endif]-->Öffentlichkeitsarbeit; Bild-, Ton- und Videoaufnahmen: Unser Verein ist ehrenamtlich organisiert, daher halten wir es für extrem wichtig die Öffentlichkeit über unsere Angebote, unser Engagement und unsere attraktiven Lern- und Beteiligungsfelder zu informieren. Dazu fertigen wir Bild-, Ton- und Videoaufnahmen an und publizieren diese. Bei der Erstellung von Bild-, Ton- und Videoaufnahmen achten wir sorgfältig darauf, die Würde der Abgebildeten nicht zu verletzen.
+<!--\\\[if !supportLists]-->o   <!--\\\[endif]-->Öffentlichkeitsarbeit; Bild-, Ton- und Videoaufnahmen: Unser Verein ist ehrenamtlich organisiert, daher halten wir es für extrem wichtig die Öffentlichkeit über unsere Angebote, unser Engagement und unsere attraktiven Lern- und Beteiligungsfelder zu informieren. Dazu fertigen wir Bild-, Ton- und Videoaufnahmen an und publizieren diese. Bei der Erstellung von Bild-, Ton- und Videoaufnahmen achten wir sorgfältig darauf, die Würde der Abgebildeten nicht zu verletzen.
 
-<!--\\[if !supportLists]-->o   <!--\\[endif]-->Information: Um über unsere Angebote zu informieren, insbesondere um ihnen eine rechtzeitige und komfortable Teilnahme ermöglichen zu können, erfassen, speichern und verarbeiten wir ihre Daten, mit ihrer Zustimmung.
+<!--\\\[if !supportLists]-->o   <!--\\\[endif]-->Information: Um über unsere Angebote zu informieren, insbesondere um ihnen eine rechtzeitige und komfortable Teilnahme ermöglichen zu können, erfassen, speichern und verarbeiten wir ihre Daten, mit ihrer Zustimmung.
 
 **§ 6 Maßgebliche Rechtsgrundlage**
 
@@ -131,7 +131,7 @@ Nach dem Ausscheiden werden Daten lediglich weiter gespeichert, wenn dazu eine V
 
 **§ 9 Auskunftspflicht der Verantwortlichen Stelle**
 
-Sie haben das Recht jederzeit Auskunft über alle ihre bei uns gespeicherten Daten zu erhalten, schreiben sie dazu bitte an \[E-Mail] unter dem Stichwort Datenbericht.
+Sie haben das Recht jederzeit Auskunft über alle ihre bei uns gespeicherten Daten zu erhalten, schreiben sie dazu bitte an Anfragen@zfs-ev.de unter dem Stichwort Datenbericht.
 
 Unter Umständen kann es notwendig sein, dass sie sich in geeigneter Weise authentifizieren.
 
