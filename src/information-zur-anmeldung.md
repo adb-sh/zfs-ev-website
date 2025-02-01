@@ -2,7 +2,7 @@
 layout: Default.tsx
 title: Mitglied werden
 menu:
-  header: true
+  header: false
   footer: false
 ---
 # Mitglied werden
